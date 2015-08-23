@@ -12,7 +12,7 @@ The code considers all the data is present in the same folder, without names alt
 
 `CodeBook.md` is a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
-`run_analysis.R` is the R program file which contains all the code to perform the analyses described in 5 steps in course project. They can be launched in RStudio by just importing the file.
+`run_analysis.R` is the R program file which contains all the code to perform the analyses described in 5 steps in course project. They can be launched in RStudio by importing the file.
 
-The output of step 5 step is stored as `averages_data.txt`, and uploaded in the course project's form.
+The output of step 5 step is stored as `average_tidy_data.txt`, and uploaded in the course project's form.
 
