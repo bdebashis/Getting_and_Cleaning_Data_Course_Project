@@ -8,7 +8,7 @@ The script `run_analysis.R`performs the 5 steps described in the course project'
 * Step 4 : On the whole dataset, those columns with vague column names are corrected.
 * Step 5 : We generate a new dataset with all the average measures for each subject and activity type (30 subjects * 6 activities = 180 rows). The output file is called `average_tidy_data.txt`, and uploaded to this repository.
 
-# Variables, Data & Transformsations performed
+# Variables, Data & Transformations performed
 
 * `x_train`, `y_train`, `subject_train`, `x_test`, `y_test` and `subject_test` contain the data from the downloaded files.
 * `x_data`, `y_data` and `subject_data` merge the previous datasets to further analysis.
